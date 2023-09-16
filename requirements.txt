@@ -4,3 +4,4 @@ flask
 pytz
 requests[socks]
 Amino.fix
+pymino
