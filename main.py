@@ -112,7 +112,7 @@ parameters = {
 
     "community-link":
 
-        "http://aminoapps.com/c/anime-es",
+        "http://aminoapps.com/c/school",
 
     "accounts-file":
 
