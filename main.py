@@ -20,7 +20,7 @@ from json_minify import json_minify
 
 parameters = {
     "community-link":
-        "http://aminoapps.com/invite/E5BQIXQ6LC",
+        "http://aminoapps.com/c/datingzone001",
     "accounts-file":
         "acc.json",
     "proxies": {
@@ -272,3 +272,4 @@ if __name__ == "__main__":
         App().run()
     except KeyboardInterrupt:
         os.abort()
+            
