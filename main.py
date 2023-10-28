@@ -10,7 +10,7 @@ import json
 THIS_FOLDER = path.dirname(path.abspath(__file__))
 emailfile=path.join(THIS_FOLDER,"acc.json")
 dictlist=[]
-cid="259501946" # community id here's
+cid="140130420" # community id here's
 
 with open(emailfile) as f: 
     dictlist = json.load(f) 
